@@ -31,11 +31,8 @@ navigation through news content
 • News API: https://newsapi.org/
 
 # Screenshots
-![1](https://github.com/devenK16/News-App/assets/91540949/d2cce49e-f1cd-4ca5-b6dd-768dd7fb2788)
-![2](https://github.com/devenK16/News-App/assets/91540949/50f4066b-628d-4732-b8b0-6d75b1a2f5f8)
-![3](https://github.com/devenK16/News-App/assets/91540949/5fb82403-65f9-4836-9a0d-cadcc691d86f)
-![4](https://github.com/devenK16/News-App/assets/91540949/a2d5f218-8531-4776-997c-a7b1f2e79cff)
-![5](https://github.com/devenK16/News-App/assets/91540949/57da618a-73c8-4102-9b26-3c0ae504662c)
-
-
+<img src = "https://github.com/devenK16/News-App/blob/master/Images/1.jpg" width = "250" height = "550"/>             <img src = "https://github.com/devenK16/News-App/blob/master/Images/2.jpg" width = "250" height = "550"/>
+<img src = "https://github.com/devenK16/News-App/blob/master/Images/3.jpg" width = "250" height = "550"/>
+<img src = "https://github.com/devenK16/News-App/blob/master/Images/4.jpg" width = "250" height = "550"/>
+<img src = "https://github.com/devenK16/News-App/blob/master/Images/5.jpg" width = "250" height = "550"/>
 
